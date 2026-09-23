@@ -1,21 +1,29 @@
-# Huynh Thanh Nghi — Game Designer
+# Huynh Thanh Nghi — Game Producer · Lead Game Designer
 
-Portfolio site: **https://nghihuynh0212.github.io/**
+Site: **https://nghihuynh0212.github.io/**
 
-| Page | URL |
+## Current — Producer / Lead Game Designer
+
+| Item | Link |
 |---|---|
-| Portfolio (日本語) | https://nghihuynh0212.github.io/ |
-| Portfolio (English) | https://nghihuynh0212.github.io/index-en.html |
+| Portfolio (web) | https://nghihuynh0212.github.io/ |
+| Portfolio (PDF, 8 pages) | https://nghihuynh0212.github.io/HuynhThanhNghi_GameProducer_Portfolio.pdf |
 
-## PDF downloads
+## Archive — Game Designer applications
 
-- [Portfolio (日本語)](HuynhThanhNghi_Portfolio_JP.pdf)
-- [Portfolio (English)](HuynhThanhNghi_GameDesigner_Portfolio.pdf)
-- [CV (English)](HuynhThanhNghi_GameDesigner_CV.pdf)
-- [履歴書](HuynhThanhNghi_履歴書.pdf)
-- [職務経歴書](HuynhThanhNghi_職務経歴書.pdf)
+Kept in [`game-designer/`](game-designer/).
+
+| Item | Link |
+|---|---|
+| Portfolio 日本語 (web) | https://nghihuynh0212.github.io/game-designer/ |
+| Portfolio English (web) | https://nghihuynh0212.github.io/game-designer/index-en.html |
+| Portfolio 日本語 (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_Portfolio_JP.pdf |
+| Portfolio English (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_Portfolio.pdf |
+| CV English (PDF / DOCX) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_CV.pdf |
+| 履歴書 (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_履歴書.pdf |
+| 職務経歴書 (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_職務経歴書.pdf |
 
 ## Notes
 
-- `index.html` is the JP portfolio and is what GitHub Pages serves at the site root.
-- `.nojekyll` is present so Jekyll does not process the files.
+- Root `index.html` is the Producer portfolio; `game-designer/index.html` is the JP Game Designer portfolio.
+- `.nojekyll` is present so Jekyll does not process these files.
