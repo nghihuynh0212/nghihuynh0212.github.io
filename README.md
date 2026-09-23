@@ -55,3 +55,18 @@ instead of A4 pages, so they cannot be printed and read poorly in most viewers:
   this repo serves the 23-page A4 export instead.
 
 `HuynhThanhNghi_Portfolio_JP.pdf` (22 pages A4) shows the correct output.
+
+## Legacy URLs (compatibility)
+
+Links shared before the 2026-09-23 reorganisation still resolve, so no document
+that has already been sent out needs reissuing.
+
+- Legacy `.html` paths are real redirect stubs at their old addresses. They
+  return 200 and redirect in any client.
+- Legacy `.pdf` / `.docx` paths are handled by `404.html`, which maps the old
+  path to the new one and redirects. Static hosting cannot serve a redirect
+  under a `.pdf` content type, so this works in a browser but not for scripted
+  downloads (`curl`, `wget`).
+
+The map is the `MOVED` object in `404.html`. Add a line there whenever a
+published file moves.

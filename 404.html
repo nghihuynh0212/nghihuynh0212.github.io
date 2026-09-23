@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Page moved — Huynh Thanh Nghi</title>
+<style>
+:root{--bg:#fff;--fg:#1a2238;--mut:#5a6272;--ac:#2f5bea;--line:#e4e7ef;--card:#f7f8fb}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#11141c;--fg:#e8eaf0;--mut:#9aa1b4;--ac:#8fa8ff;--line:#262c3a;--card:#171b26}}
+:root[data-theme="dark"]{--bg:#11141c;--fg:#e8eaf0;--mut:#9aa1b4;--ac:#8fa8ff;--line:#262c3a;--card:#171b26}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);padding:16px;
+font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;line-height:1.6}
+main{max-width:40rem;margin:12vh auto 4rem}
+h1{font-size:1.4rem;margin:0 0 .5rem}
+p{color:var(--mut);margin:0 0 1.25rem}
+ul{list-style:none;padding:0;margin:0;border:1px solid var(--line);border-radius:10px;background:var(--card);overflow:hidden}
+li+li{border-top:1px solid var(--line)}
+a{color:var(--ac);text-decoration:none;display:block;padding:.75rem 1rem}
+a:hover{text-decoration:underline}
+code{background:var(--card);border:1px solid var(--line);border-radius:5px;padding:.1rem .35rem;font-size:.9em;word-break:break-all}
+#go{display:none}
+</style>
+</head>
+<body>
+<main>
+<h1 id="h">Page not found</h1>
+<p id="msg">The address <code id="path"></code> does not exist on this site.</p>
+<p id="go">Taking you to the new location&hellip; <a id="golink" href="/"></a></p>
+<p>Otherwise, pick what you were looking for:</p>
+<ul>
+<li><a href="/">Producer &middot; Lead Game Designer &mdash; portfolio</a></li>
+<li><a href="/producer/HuynhThanhNghi_GameProducer_CV.pdf">Producer &mdash; CV (PDF)</a></li>
+<li><a href="/liveops/">LiveOps &amp; Game Design &mdash; portfolio</a></li>
+<li><a href="/game-designer/">Game Designer &mdash; portfolio (日本語)</a></li>
+<li><a href="/game-designer/index-en.html">Game Designer &mdash; portfolio (English)</a></li>
+<li><a href="/brse/HuynhThanhNghi_履歴書・職務経歴書_BrSE.pdf">BrSE &mdash; 履歴書・職務経歴書 (PDF)</a></li>
+</ul>
+</main>
+<script>
+// Legacy paths from before the 2026-09-23 reorganisation. Keeps links that were
+// already sent out on applications working, so no document needs reissuing.
+var MOVED = {
+  "/HuynhThanhNghi_GameDesigner_CV.pdf":        "/game-designer/HuynhThanhNghi_GameDesigner_CV.pdf",
+  "/HuynhThanhNghi_GameDesigner_CV.docx":       "/game-designer/HuynhThanhNghi_GameDesigner_CV.docx",
+  "/HuynhThanhNghi_GameDesigner_Portfolio.pdf": "/game-designer/HuynhThanhNghi_GameDesigner_Portfolio.pdf",
+  "/HuynhThanhNghi_Portfolio_JP.pdf":           "/game-designer/HuynhThanhNghi_Portfolio_JP.pdf",
+  "/HuynhThanhNghi_履歴書.pdf":                  "/game-designer/HuynhThanhNghi_履歴書.pdf",
+  "/HuynhThanhNghi_履歴書.docx":                 "/game-designer/HuynhThanhNghi_履歴書.pdf",
+  "/HuynhThanhNghi_職務経歴書.pdf":               "/game-designer/HuynhThanhNghi_職務経歴書.pdf",
+  "/HuynhThanhNghi_GameProducer_Portfolio.pdf": "/producer/HuynhThanhNghi_GameProducer_Portfolio.pdf",
+  "/HuynhThanhNghi_GameDesigner_Portfolio.html":"/game-designer/index-en.html",
+  "/HuynhThanhNghi_Portfolio_JP.html":          "/game-designer/",
+  "/index-en.html":                             "/game-designer/index-en.html",
+  "/index":                                     "/game-designer/index-en.html"
+};
+var raw = location.pathname;
+var key = null;
+try { key = decodeURIComponent(raw); } catch (e) { key = raw; }
+var dest = MOVED[key] || MOVED[raw];
+document.getElementById("path").textContent = key;
+if (dest) {
+  document.getElementById("h").textContent = "This file has moved";
+  document.getElementById("msg").style.display = "none";
+  var g = document.getElementById("go");
+  g.style.display = "block";
+  var a = document.getElementById("golink");
+  a.href = dest; a.textContent = dest;
+  location.replace(dest);
+}
+</script>
+</body>
+</html>
