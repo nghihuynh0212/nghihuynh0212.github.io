@@ -29,7 +29,7 @@ Organized by role. One folder per role, each holding a CV and a portfolio.
 | Portfolio 日本語 (PDF, 22 pages A4) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_Portfolio_JP.pdf |
 | Portfolio English (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_Portfolio.pdf |
 | CV English (PDF / DOCX, 2 pages) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_CV.pdf |
-| 履歴書 (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_履歴書.pdf |
+| 履歴書 (PDF / DOCX) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_履歴書.pdf |
 | 職務経歴書 (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_職務経歴書.pdf |
 
 ## BrSE
@@ -37,6 +37,7 @@ Organized by role. One folder per role, each holding a CV and a portfolio.
 | Item | Link |
 |---|---|
 | 履歴書・職務経歴書 (PDF / DOCX, 6 pages) | https://nghihuynh0212.github.io/brse/HuynhThanhNghi_履歴書・職務経歴書_BrSE.pdf |
+| CV + Portfolio English (PDF, 11 pages) | https://nghihuynh0212.github.io/brse/HuynhThanhNghi_BrSE_CV_Portfolio_EN.pdf |
 
 ## Notes
 
