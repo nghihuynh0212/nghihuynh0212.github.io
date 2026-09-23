@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Page moved — Huynh Thanh Nghi</title>
+<title>Huynh Thanh Nghi</title>
 <style>
 :root{--bg:#fff;--fg:#1a2238;--mut:#5a6272;--ac:#2f5bea;--line:#e4e7ef;--card:#f7f8fb}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#11141c;--fg:#e8eaf0;--mut:#9aa1b4;--ac:#8fa8ff;--line:#262c3a;--card:#171b26}}
@@ -54,12 +54,14 @@ var MOVED = {
   "/index-en.html":                             "/game-designer/index-en.html",
   "/index":                                     "/game-designer/index-en.html"
 };
+document.title = "Page not found — Huynh Thanh Nghi";
 var raw = location.pathname;
 var key = null;
 try { key = decodeURIComponent(raw); } catch (e) { key = raw; }
 var dest = MOVED[key] || MOVED[raw];
 document.getElementById("path").textContent = key;
 if (dest) {
+  document.title = "Redirecting — Huynh Thanh Nghi";
   document.getElementById("h").textContent = "This file has moved";
   document.getElementById("msg").style.display = "none";
   var g = document.getElementById("go");
