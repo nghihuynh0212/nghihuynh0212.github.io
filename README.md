@@ -30,7 +30,7 @@ Organized by role. One folder per role, each holding a CV and a portfolio.
 | Portfolio English (PDF) | [GameDesigner_Portfolio.pdf](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_Portfolio.pdf) |
 | CV English (2 pages) | [PDF](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_CV.pdf) · [DOCX](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_CV.docx) |
 | 履歴書 | [PDF](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf) · [DOCX](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx) |
-| 職務経歴書 (PDF) | [職務経歴書.pdf](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf) |
+| 職務経歴書 | [PDF](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf) · [DOCX](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.docx) |
 
 ## BrSE
 
