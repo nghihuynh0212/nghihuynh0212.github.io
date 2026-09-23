@@ -8,41 +8,43 @@ Organized by role. One folder per role, each holding a CV and a portfolio.
 
 | Item | Link |
 |---|---|
-| Portfolio (web) | https://nghihuynh0212.github.io/ |
-| Portfolio (PDF, 23 pages A4) | https://nghihuynh0212.github.io/producer/HuynhThanhNghi_GameProducer_Portfolio.pdf |
-| CV (PDF, 2 pages) | https://nghihuynh0212.github.io/producer/HuynhThanhNghi_GameProducer_CV.pdf |
+| Portfolio (web) | [nghihuynh0212.github.io](https://nghihuynh0212.github.io/) |
+| Portfolio (PDF, 23 pages A4) | [GameProducer_Portfolio.pdf](https://nghihuynh0212.github.io/producer/HuynhThanhNghi_GameProducer_Portfolio.pdf) |
+| CV (PDF, 2 pages) | [GameProducer_CV.pdf](https://nghihuynh0212.github.io/producer/HuynhThanhNghi_GameProducer_CV.pdf) |
 
 ## LiveOps & Game Design
 
 | Item | Link |
 |---|---|
-| Portfolio (web) | https://nghihuynh0212.github.io/liveops/ |
-| Portfolio (PDF) | https://nghihuynh0212.github.io/liveops/HuynhThanhNghi_LiveOps_Portfolio.pdf |
-| CV (PDF / DOCX, 2 pages) | https://nghihuynh0212.github.io/liveops/HuynhThanhNghi_LiveOps_CV.pdf |
+| Portfolio (web) | [/liveops/](https://nghihuynh0212.github.io/liveops/) |
+| Portfolio (PDF) | [LiveOps_Portfolio.pdf](https://nghihuynh0212.github.io/liveops/HuynhThanhNghi_LiveOps_Portfolio.pdf) |
+| CV (2 pages) | [PDF](https://nghihuynh0212.github.io/liveops/HuynhThanhNghi_LiveOps_CV.pdf) · [DOCX](https://nghihuynh0212.github.io/liveops/HuynhThanhNghi_LiveOps_CV.docx) |
 
 ## Game Designer
 
 | Item | Link |
 |---|---|
-| Portfolio 日本語 (web) | https://nghihuynh0212.github.io/game-designer/ |
-| Portfolio English (web) | https://nghihuynh0212.github.io/game-designer/index-en.html |
-| Portfolio 日本語 (PDF, 22 pages A4) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_Portfolio_JP.pdf |
-| Portfolio English (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_Portfolio.pdf |
-| CV English (PDF / DOCX, 2 pages) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_CV.pdf |
-| 履歴書 (PDF / DOCX) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_履歴書.pdf |
-| 職務経歴書 (PDF) | https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_職務経歴書.pdf |
+| Portfolio 日本語 (web) | [/game-designer/](https://nghihuynh0212.github.io/game-designer/) |
+| Portfolio English (web) | [/game-designer/index-en.html](https://nghihuynh0212.github.io/game-designer/index-en.html) |
+| Portfolio 日本語 (PDF, 22 pages A4) | [Portfolio_JP.pdf](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_Portfolio_JP.pdf) |
+| Portfolio English (PDF) | [GameDesigner_Portfolio.pdf](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_Portfolio.pdf) |
+| CV English (2 pages) | [PDF](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_CV.pdf) · [DOCX](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_GameDesigner_CV.docx) |
+| 履歴書 | [PDF](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf) · [DOCX](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E5%B1%A5%E6%AD%B4%E6%9B%B8.docx) |
+| 職務経歴書 (PDF) | [職務経歴書.pdf](https://nghihuynh0212.github.io/game-designer/HuynhThanhNghi_%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf) |
 
 ## BrSE
 
 | Item | Link |
 |---|---|
-| 履歴書・職務経歴書 (PDF / DOCX, 6 pages) | https://nghihuynh0212.github.io/brse/HuynhThanhNghi_履歴書・職務経歴書_BrSE.pdf |
-| CV + Portfolio English (PDF, 11 pages) | https://nghihuynh0212.github.io/brse/HuynhThanhNghi_BrSE_CV_Portfolio_EN.pdf |
+| Portfolio English (web) | [/brse/](https://nghihuynh0212.github.io/brse/) |
+| CV + Portfolio English (PDF, 11 pages) | [BrSE_CV_Portfolio_EN.pdf](https://nghihuynh0212.github.io/brse/HuynhThanhNghi_BrSE_CV_Portfolio_EN.pdf) |
+| CV English (DOCX) | [BrSE_CV_EN.docx](https://nghihuynh0212.github.io/brse/HuynhThanhNghi_BrSE_CV_EN.docx) |
+| 履歴書・職務経歴書 (6 pages) | [PDF](https://nghihuynh0212.github.io/brse/HuynhThanhNghi_%E5%B1%A5%E6%AD%B4%E6%9B%B8%E3%83%BB%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8_BrSE.pdf) · [DOCX](https://nghihuynh0212.github.io/brse/HuynhThanhNghi_%E5%B1%A5%E6%AD%B4%E6%9B%B8%E3%83%BB%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8_BrSE.docx) |
 
 ## Notes
 
 - Folders are named by role, not by employer. The employer mapping lives in Drive only.
-- Root `index.html` is the Producer portfolio; each role folder's `index.html` is that role's web portfolio.
+- Root `index.html` is the Producer portfolio; each role folder's `index.html` is that role's web portfolio (`brse/index.html` is the English BrSE portfolio).
 - `.nojekyll` is present so Jekyll does not process these files.
 
 ### Known issue — unpaginated portfolio PDFs
